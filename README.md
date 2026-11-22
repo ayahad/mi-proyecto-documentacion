@@ -1,11 +1,9 @@
-# mi-proyecto-documentacion
-proyecto de documentación
 # Nombre del proyecto
 
 ## 1. Fundamentos del sistema
 Escribe aquí los objetivos del sistema
 
-## 2. Análisis y especificación de requisitos
+## 2. Análisis y especificación de requisitiso
 Información sobre la especificación de requisitos acordada entre los clientes y el equipo.
 Añade aquí todo lo que hemos ido haciendo sobre los requisitos.
 
@@ -19,7 +17,8 @@ Añade aquí aunque no tenga que ver con el proyecto, los ejercicios donde tuvis
 Añade aquí lo que hicimos para diseñar las pruebas
 
 ### 5.1. Pruebas de aceptación
-Nada por 
+Nada por aquí 
 
 ## 7. Los diccionarios de datos
+
 No hagas nada por aquí
